@@ -7,3 +7,4 @@ yii框架rbac权限管理
   http://localhost/rbac/backend.php?r=site/login
   账号：admin
   密码：admin
+4.在rbac/protected/backend/目录下建runtime文件夹和views文件夹

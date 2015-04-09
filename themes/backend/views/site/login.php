@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class='signup_container'>
-    <h1 class='signup_title'>用户登陆</h1>
+    <h1 class='signup_title'>用户登录</h1>
     <div id="signup_forms" class="signup_forms clearfix">
         <form action="backend.php?r=site/login" method="post" id="signup_form">
             <div class="form_row first_row">
